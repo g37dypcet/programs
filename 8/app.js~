@@ -1,0 +1,5 @@
+
+
+// Function 5: process.memoryUsage()
+console.log('Memory usage:', process.memoryUsage());
+// This will display an object containing memory usage statistics.
